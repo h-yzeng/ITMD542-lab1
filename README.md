@@ -22,12 +22,12 @@ The goal of this first lab is to create a very simple HTML index page and CSS UI
 
 ## Lab Requirements
 
-• Create a GitHub account
-• Create a new public Git repository on GitHub for this lab. Include in the repository name course number and lab (i.e. ITMD542-Lab1)
-• Check the box to add a README file
-• Use preferred method to interact with the Git repository and GitHub. Use a client or command line on a local copy and push commits to GitHub.
-• Create an index.html file in the root of your repository. Create a webpage as the intro/landing page of your repository. This page should be an intro about the student and the class.
-• Include a personal photo on the page. Add a CSS file and add CSS to this page. Any CSS frameworks are fine to use. All elements on the page styled.
-• Commit files to repository and GitHub. Multiple commits should occur and pushed.
-• Enable GitHub pages for main branch to serve as a website.
-• Submit GitHub repo and pages URL to the Canvas assignment in the text field. Page needs to be hosted on GitHub pages and not just repo code.
+- Create a GitHub account
+- Create a new public Git repository on GitHub for this lab. Include in the repository name course number and lab (i.e. ITMD542-Lab1)
+- Check the box to add a README file
+- Use preferred method to interact with the Git repository and GitHub. Use a client or command line on a local copy and push commits to GitHub.
+- Create an index.html file in the root of your repository. Create a webpage as the intro/landing page of your repository. This page should be an intro about the student and the class.
+- Include a personal photo on the page. Add a CSS file and add CSS to this page. Any CSS frameworks are fine to use. All elements on the page styled.
+- Commit files to repository and GitHub. Multiple commits should occur and pushed.
+- Enable GitHub pages for main branch to serve as a website.
+- Submit GitHub repo and pages URL to the Canvas assignment in the text field. Page needs to be hosted on GitHub pages and not just repo code.
