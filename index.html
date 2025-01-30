@@ -1,28 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ITMD 541 - Lab 1 - Hao Yuan Zeng - Self-Introduction Page</title>
-    <link rel="stylesheet" href="styles.css">
-  </head>
-  <body>
-    <header>
-      <h1>Welcome to My Self-Introduction Page</h1>
-    </header>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lab 1 - Self-Introduction Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-content">
+      <h1>Welcome to My Landing Page</h1>
+      <p class="subtitle">This page contains an introduction of myself and my interests</p>
+    </div>
+  </header>
 
-    <main>
-      <section>
+  <main class="content-container">
+    <section class="about-section">
+      <div class="text-content">
         <h2>About Me</h2>
-        <p>Hello! My name is Hao Yuan Zeng and I am a 3rd year student currently majoring in Information Technology and Management at Illinois Institute of Technology. I'm from Chicago locally and been living practically my entire life.</p>
-        <p>I am also currently minoring in Software Engineering due to my interests in web development and mobile development.</p>
-        <img src="images/photo.jpeg" alt="My profile picture"/>
-      </section>
+        <p>Hello! I'm Hao Yuan Zeng, a 3rd year Information Technology and Management major here at Illinois Institute of Technology.</p> 
+        <p>Currently I am taking a Software Engineering minor because I am interested in following:</p>
+        <ul class="interest-list">
+          <li>Web Development</li>
+          <li>Mobile App Development</li>
+        </ul>
+        <p>I am also a Co-Terminal Masters student majoring in ITM and specializing in Web Design and Application Development.</p>
+      </div>
+      <div class="image-container">
+        <img src="images/photo.jpeg" alt="profile picture" class="profile-img">
+      </div>
+    </section>
+  </main>
 
-    </main>
-
-    <footer>
-      <p>&copy; 2025 by Hao Yuan Zeng. All rights reserved.</p>
-    </footer>
-  </body>
+  <footer class="site-footer">
+    <p>&copy; 2025 by Hao Yuan Zeng. All rights reserved.</p>
+  </footer>
+</body>
 </html>
